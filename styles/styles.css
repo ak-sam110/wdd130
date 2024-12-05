@@ -4,8 +4,21 @@
     box-sizing: border-box;
 }
 
-.main {
+main {
     max-width: 840px;
+}
+
+h1{
+    color: #333;
+}
+nav{
+    background-color: azure;
+    padding: 5px;
+}
+nav a {
+    color: blueviolet;
+    display: block;
+    padding: 20px;
 }
 
 aside {
@@ -19,8 +32,8 @@ aside {
 }
 
 aside img {
-    width: 20em;
-    text-align: center;
+    width: 200px;
+    height: order;
 }
 
 aside h2{
@@ -32,7 +45,6 @@ aside h2{
 main img {
     width: 150px;
     height: auto;
-    float: right;
 }
 
 p{
