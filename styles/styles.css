@@ -1,24 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 main {
     max-width: 840px;
-}
-
-h1{
-    color: #333;
-}
-nav{
-    background-color: azure;
-    padding: 5px;
-}
-nav a {
-    color: blueviolet;
-    display: block;
-    padding: 20px;
 }
 
 aside {
@@ -33,7 +15,7 @@ aside {
 
 aside img {
     width: 200px;
-    height: order;
+    height: auto;
 }
 
 aside h2{
@@ -55,12 +37,4 @@ footer{
     margin-top: 15px;
     border-top: 1px solid #000 ;
     text-align: center;
-}
-/* class selectors */
-.box{
-    margin: 1em;
-    border: 1px solid rgb(0 0 0 / 0.1);
-    padding: 1rem;
-    background-color: #ddd;
-    color: #000;
 }
