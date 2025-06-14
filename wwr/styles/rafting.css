@@ -32,8 +32,6 @@ header{
     border-bottom: 1px solid #ccc;
 }
 
-
-
 header, main, footer {
     width: 840px;
     margin: auto;
@@ -119,8 +117,6 @@ h2 {
     background-color: #ddd;
 }
 
-
- 
 /* Intro Section */
 .introduction{
     text-align: center;
