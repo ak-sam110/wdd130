@@ -46,6 +46,7 @@ header {
   text-decoration: none;
   color: #333;
   background-color: white;
+  justify-items: auto;
   padding: 0.5rem 1rem;
   border: 1px solid #aaa;
   border-radius: 5px;
